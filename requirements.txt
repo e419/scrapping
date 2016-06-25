@@ -1,0 +1,4 @@
+scrapy
+pylint
+requests
+setuptools==11.3
